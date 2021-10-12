@@ -1220,10 +1220,31 @@ a {
   padding-bottom: 6rem;
   background-color: #fafafa;
 }
+.cid-sLAaf154jl {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-sLAaf154jl .card-wrapper {
+  display: flex;
+}
+@media (max-width: 991px) {
+  .cid-sLAaf154jl .card-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+.cid-sLAaf154jl .mbr-iconfont {
+  font-size: 2rem;
+  color: #6592e6;
+  padding-right: 1.5rem;
+}
+.cid-sLAaf154jl .card-title {
+  text-align: left;
+}
 .cid-sLzaKFEKva {
   padding-top: 2rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-color: #fafafa;
 }
 .cid-sLzaKFEKva .carousel-item {
   justify-content: center;
